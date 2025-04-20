@@ -1,0 +1,20 @@
+Uri: https://바카라로얄.com/
+File Name: C:\Downloaded Web Sites\바카라로얄.com\index.htm
+Content Type: text/html
+
+Uri: https://바카라로얄.com/js/ios-orientationchange-fix.min.js
+File Name: C:\Downloaded Web Sites\바카라로얄.com\js\ios-orientationchange-fix.min.js
+Content Type: application/javascript
+
+Uri: https://바카라로얄.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\바카라로얄.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://바카라로얄.com/js/jquery.rwdImageMaps.min.js
+File Name: C:\Downloaded Web Sites\바카라로얄.com\js\jquery.rwdImageMaps.min.js
+Content Type: application/javascript
+
+Uri: https://바카라로얄.com/royal.png
+File Name: C:\Downloaded Web Sites\바카라로얄.com\royal.png
+Content Type: image/png
+
